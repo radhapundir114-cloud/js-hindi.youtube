@@ -15,7 +15,7 @@ let isloggedIn = false
 //boolean=>true/false
 // null=>standalone value
 // undefined =>
-// symbol=>uniqe
+// symbol=>uniqe-------------+
 // 
   console.log(typeof undefined);   
   console.log(typeof  null)
